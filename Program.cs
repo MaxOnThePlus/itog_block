@@ -11,3 +11,4 @@ for (int i = 0; i < inArr.Length; i++)
     } 
  
 } 
+Console.WriteLine($"[{string.Join(",", inArr)}]=>[{string.Join(",", outArr)}]");
